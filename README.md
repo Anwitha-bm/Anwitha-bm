@@ -1,13 +1,6 @@
 ## Hi there 👋
-I am Anwitha 
-GNITS, 2nd year ECE 
-With two years into unreal bliss 
-I realized 
-I need to have more hobbies 
-Not just any hobbies but cool hobbies that make me stand out🎶🐢
-Well 
-here i am 
-haha
+I am Anwitha, 2nd year ECE - GNITS
+(⁠つ⁠≧⁠▽⁠≦⁠)⁠つ
 
 <!--
 **Anwitha-bm/Anwitha-bm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
