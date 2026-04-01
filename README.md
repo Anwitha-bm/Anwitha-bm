@@ -1,6 +1,8 @@
-## Hi there 👋
-I am Anwitha, 2nd year ECE - GNITS
-(⁠つ⁠≧⁠▽⁠≦⁠)⁠つ
+## Hi there ♡ 
+I am Anwitha, 2nd year ECE - GNITS<br>
+Web applications enthusiast !<br>
+I've started to learn how to make java projects using intellij and spring boot <br>
+˚⋆𐙚🍥🌸 ྀི💮🫧<br>
 
 <!--
 **Anwitha-bm/Anwitha-bm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
