@@ -1,4 +1,4 @@
-<h1 align="center">Ahoy, I'm Anwitha Koneru ♡ </h1>
+<h1 align="center">Hi there, I'm Anwitha Koneru ♡ </h1>
 
 <p align="center">
   <b>ECE Undergraduate ('28) at GNITS</b> | <b>AI & ML Minor</b> | <b>Embedded Systems, Aerospace, IoT and AI Enthusiast</b>
